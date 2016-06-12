@@ -1,2 +1,2 @@
 # GitTest
-Git repository used for testing
+Git repository used for testing2
